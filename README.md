@@ -38,12 +38,16 @@ The most used payment method is Net Banking followed by debit card and credit ca
 6. 🔁 Returns Behavior - 
 The overall return rate shows a diagonal relationship between product rating, delivery service rating and return&refund ratings. Returns and non-returns have a similar result indicating that the most common reasons for returns include transaction medium or related issues mostly.
 
-
-
+🤝 Key Recommendations
+- Aim for repeatated customer growth through loyalty programs and personalized promotional campaigns.
+- Focus on the improvement of product quality and set clearer expectations in descriptions as the customer's needed
+- Optimize courier partnerships by removing or renegotiating with consistently delayed providers.
+- Incentivize prepaid orders to reduce return and cancellation rates.
+- Start seasonal sales based on customer's requirements or by assessing the trend of purchasing
 
 📝 Future Improvements
 - Integrate sentiment analysis on customer reviews
 - Build an interactive dashboard using Power BI
 - Compare AJIO with competitors (e.g., Myntra, Flipkart)
 
-- 
+🔗 Author - Purabi Banerjee 🔹 LinkedIn Profile - https://www.linkedin.com/in/purabi-banerjee-784929351
